@@ -92,6 +92,11 @@
     border-radius: 0;
 }
 
+.panel-sidebar > .panel-body{
+  margin: 0;
+  padding: 0;
+}
+
 .panel-section{
   border: 0;
   border-bottom: 1px;
